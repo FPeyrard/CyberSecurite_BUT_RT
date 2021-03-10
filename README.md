@@ -19,10 +19,10 @@ Ressources pour le parcours CyberSécurité du BUT (Bachelor Universitaire Techn
 * **Administrateur** de solutions de sécurité
 * **Auditeur** de sécurité technique
 * **Opérateur** analyste SOC (Security Operation Center)
-* **Intégrateur de solutions de sécurité
+* **Intégrateur** de solutions de sécurité
 * **Administrateur** Data Center
 
-
+Ce sont les métiers à BAC+2/+3 identifiés dans le [Panorama des métiers de la CyberSécurité (ANSSI)](https://www.ssi.gouv.fr/particulier/formations/panorama-des-metiers-de-la-cybersecurite/)
 
 ## Table of Contents
 1. [General Info](#general-info)
