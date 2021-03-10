@@ -22,7 +22,7 @@ Ressources pour le parcours CyberSécurité du BUT (Bachelor Universitaire Techn
 * **Intégrateur** de solutions de sécurité
 * **Administrateur** Data Center
 
-Ce sont les métiers à BAC+2/+3 identifiés dans le <a href="https://www.ssi.gouv.fr/particulier/formations/panorama-des-metiers-de-la-cybersecurite/" target="_blank" rel="noopener">Panorama des métiers de la CyberSécurité (ANSSI)</a>
+Ce sont les métiers à BAC+2/+3 identifiés dans le <a href="https://www.ssi.gouv.fr/particulier/formations/panorama-des-metiers-de-la-cybersecurite/" target="_blank">Panorama des métiers de la CyberSécurité (ANSSI)</a>
 
 
 ## Table of Contents
