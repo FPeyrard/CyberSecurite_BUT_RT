@@ -5,8 +5,8 @@ Ressources pour le parcours CyberSécurité du BUT (Bachelor Universitaire Techn
 ***
 
 ## Table des matières
-1. [Informations générales](#informations générales)
-2. [Les métiers accessibles](#les metiers accessibles)
+1. [Informations générales](#informations-générales)
+2. [Les métiers accessibles](#les-metiers-accessibles)
 
 ## Informations générales
 ***
