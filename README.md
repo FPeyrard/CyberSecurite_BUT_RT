@@ -14,13 +14,13 @@ Ressources pour le parcours CyberSécurité du BUT (Bachelor Universitaire Techn
 
 ## Les métiers accessibles
 ***
-**Technicien** des réseaux d'entreprises / en cybersécurité / réseaux sécurisés / d'infrastructures sécurisées
-**Coordinateur** cybersécurité des systèmes d'information
-**Administrateur** de solutions de sécurité
-**Auditeur** de sécurité technique
-**Opérateur** analyste SOC (Security Operation Center)
-**Intégrateur de solutions de sécurité
-**Administrateur** Data Center
+* **Technicien** des réseaux d'entreprises / en cybersécurité / réseaux sécurisés / d'infrastructures sécurisées
+* **Coordinateur** cybersécurité des systèmes d'information
+* **Administrateur** de solutions de sécurité
+* **Auditeur** de sécurité technique
+* **Opérateur** analyste SOC (Security Operation Center)
+* **Intégrateur de solutions de sécurité
+* **Administrateur** Data Center
 
 
 
