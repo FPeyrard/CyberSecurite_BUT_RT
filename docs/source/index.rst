@@ -22,7 +22,7 @@ Le référentiel de compétences décrit:
  * Les apprentissages critiques
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: Référentiel de compétences
 
@@ -33,7 +33,7 @@ Ressources
 ----------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Ressources
 
 
@@ -41,7 +41,7 @@ Situations d'Apprentissage et d'Evaluation (SAE)
 ------------------------------------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Situations d'Apprentissage et d'Evaluation (SAE)
 
 
