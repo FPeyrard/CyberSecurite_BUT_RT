@@ -6,13 +6,20 @@
 CyberSécurité BUT R&T
 =====================
 
+
+Guide
+^^^^^
+
+Test d texte
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
 
 
-Indices and tables
+Table des matières
 ==================
 
 * :ref:`genindex`
