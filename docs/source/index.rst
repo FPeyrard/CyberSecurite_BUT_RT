@@ -7,15 +7,15 @@ CyberSécurité BUT R&T
 =====================
 
 Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Réseaux & Télécoms s'articule autour:
- * du référentiel de compétences
+ * du :ref:`référentiel de compétences <referentiel-de-competences>`
  * des ressources 
  * des Situations d'Apprentissage et d'Evaluation (SAE)
   
 
 Référentiel de compétences
 --------------------------
-Le référentiel de compétences décrit 
- *  :doc:`Les métiers associés </referentielcompetences/metiers>` |
+Le référentiel de compétences décrit: 
+ *  :doc:`Les métiers associés </referentielcompetences/metiers>` 
  * Les compétences et composantes essentielles
  * Les situations professionnelles
  * Les niveaux de développements des compétences
