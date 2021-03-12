@@ -12,6 +12,8 @@ Guide
 
 Test de texte
 
+* **Getting started**:
+  :doc:`With Sphinx </intro/parcourscyber>`
 
 .. toctree::
    :maxdepth: 2
