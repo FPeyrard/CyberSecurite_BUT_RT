@@ -10,13 +10,14 @@ CyberSécurité BUT R&T
 Guide
 ^^^^^
 
-Test d texte
+Test de texte
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   /intro/parcourscyber.rst
 
 
 Table des matières
