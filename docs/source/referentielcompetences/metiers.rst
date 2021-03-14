@@ -61,8 +61,7 @@ Run ``sphinx-quickstart`` in there:
 
 
 .. toctree::
-   :maxdepth: 4
-   :hidden:
+   :maxdepth: 3
    :caption: Les métiers accessibles
 
 
