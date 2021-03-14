@@ -60,8 +60,5 @@ Run ``sphinx-quickstart`` in there:
 .. _this template: https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/#id1
 
 
-.. toctree::
-   :maxdepth: 3
-   :caption: Les métiers accessibles
 
 
