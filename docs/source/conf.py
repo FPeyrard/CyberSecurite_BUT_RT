@@ -33,18 +33,7 @@ release = '1.0'
 
 extensions = [
     'sphinx.ext.autosectionlabel',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'sphinxcontrib.httpdomain',
-    'djangodocs',
-    'doc_extensions',
-    'sphinx_tabs.tabs',
-    'sphinx-prompt',
-    'recommonmark',
-    'notfound.extension',
     'hoverxref.extension',
-    'sphinx_search.extension',
-    'sphinxemoji.sphinxemoji',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
