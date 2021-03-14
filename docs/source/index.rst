@@ -25,7 +25,7 @@ Le référentiel de compétences décrit:
    :maxdepth: 3
    :caption: Référentiel de compétences
 
-   referencielcompetences
+   /referencielcompetences/metiers
 
 
 Ressources
