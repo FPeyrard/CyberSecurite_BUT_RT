@@ -23,6 +23,7 @@ Le référentiel de compétences décrit:
 
 .. toctree::
    :maxdepth: 3
+   :glob:
    :caption: Référentiel de compétences
 
    /referencielcompetences/metiers
