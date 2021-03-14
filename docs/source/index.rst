@@ -15,7 +15,7 @@ Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Ré
 Référentiel de compétences
 --------------------------
 Le référentiel de compétences décrit: 
- *  :doc:`Les métiers associés</referentielcompetences/metiers:Les métiers accessibles>` 
+ * Les metiers :doc:`/referentielcompetences/metiers` 
  * Les compétences et composantes essentielles
  * Les situations professionnelles
  * Les niveaux de développements des compétences
