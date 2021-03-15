@@ -11,6 +11,9 @@ Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Ré
  * des ressources
  * des Situations d'Apprentissage et d'Evaluation (SAE)
 
+Référentiel de compéteances
+---------------------------
+
 .. toctree::
    :maxdepth: 3
    :caption: Référentiel de compétences
