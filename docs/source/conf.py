@@ -14,6 +14,7 @@ import os
 import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import sphinxemoji
 
 # -- Project information -----------------------------------------------------
 
@@ -30,16 +31,6 @@ sys.path.append(os.path.abspath('_ext'))
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'sphinxcontrib.httpdomain',
-    'djangodocs',
-    'doc_extensions',
-    'sphinx_tabs.tabs',
-    'sphinx-prompt',
-    'recommonmark',
-    'notfound.extension',
-    'hoverxref.extension',
-    'sphinx_search.extension',
     'sphinxemoji.sphinxemoji',
 ]
 
@@ -90,19 +81,7 @@ html_theme = 'default'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-hoverxref_auto_ref = True
-hoverxref_domains = ['py']
-hoverxref_roles = [
-    'option',
-    'doc',
-]
-hoverxref_role_types = {
-    'mod': 'modal',  # for Python Sphinx Domain
-    'doc': 'modal',  # for whole docs
-    'class': 'tooltip',  # for Python Sphinx Domain
-    'ref': 'tooltip',  # for hoverxref_auto_ref config
-    'confval': 'tooltip',  # for custom object
-}
+
 
 
 
