@@ -18,7 +18,7 @@ Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Ré
 
    referentielcompetences/refcomp.rst
    referentielcompetences/metiers.rst
-   
+
 
 
 Ressources
@@ -27,6 +27,11 @@ Ressources
 .. toctree::
    :maxdepth: 3
    :caption: Ressources
+
+   referentielcompetences/refcomp.rst
+   referentielcompetences/metiers.rst
+   
+   
 
 
 Situations d'Apprentissage et d'Evaluation (SAE)
