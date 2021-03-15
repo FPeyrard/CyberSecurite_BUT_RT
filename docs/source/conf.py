@@ -82,7 +82,7 @@ hoverxref_role_types = {
     'confval': 'tooltip',  # for custom object
 }
 
-sphinxemoji_style = 'twemoji'
+
 
 
 
