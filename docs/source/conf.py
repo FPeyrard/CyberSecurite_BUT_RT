@@ -14,7 +14,6 @@ import os
 import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
@@ -36,7 +35,6 @@ release = '1.0'
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx.ext.*',
     'sphinxemoji.sphinxemoji',
 #    'sphinxemoji.sphinxemoji',
 #    'hoverxref.extension',
