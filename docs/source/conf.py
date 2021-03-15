@@ -27,9 +27,9 @@ release = '1.0'
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx_copybutton',
-    'sphinx-prompt',
- #   'sphinxemoji.sphinxemoji',
+#    'sphinx_copybutton',
+#    'sphinx-prompt',
+#   'sphinxemoji.sphinxemoji',
 ]
 
 
