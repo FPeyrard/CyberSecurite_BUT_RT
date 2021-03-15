@@ -24,9 +24,6 @@ author = 'Fabrice Peyrard'
 # The full version, including alpha/beta/rc tags
 release = '1.0'
 
-autodoc_mock_imports = ['_tkinter']
-
-autodoc_mock_imports = ["django"]
 
 # -- General configuration ---------------------------------------------------
 
@@ -37,8 +34,7 @@ autodoc_mock_imports = ["django"]
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'sphinxemoji.sphinxemoji',
+#    'sphinxemoji.sphinxemoji',
 #    'hoverxref.extension',
 ]
 
