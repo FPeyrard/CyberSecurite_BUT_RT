@@ -5,7 +5,7 @@ Les compétences et composantes essentielles
 .. meta::
    :description lang=fr: Les compétences et composantes essentielles de la CyberSécurité à BAC+2 / BAC+3
 
-Compétence CY1: Sécuriser --> **Administrer un système d'information sécurisé**
+Compétence CY1: Sécuriser :arrow_right: **Administrer un système d'information sécurisé**
 -------------------------
 
 * en visant un juste compromis entre exigences de sécurité et contraintes d’utilisation

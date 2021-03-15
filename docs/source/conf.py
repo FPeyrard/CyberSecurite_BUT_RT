@@ -35,6 +35,7 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
+    'sphinxemoji.sphinxemoji',
 #    'hoverxref.extension',
 ]
 
@@ -80,4 +81,8 @@ hoverxref_role_types = {
     'ref': 'tooltip',  # for hoverxref_auto_ref config
     'confval': 'tooltip',  # for custom object
 }
+
+sphinxemoji_style = 'twemoji'
+
+
 
