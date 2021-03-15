@@ -5,28 +5,28 @@ Référentiel de compétences
 
 Le référentiel de compétences décrit:
 
-* :doc:`Les métiers accessibles <metiers>`
-------------------------------------------
+Les métiers accessibles
+-----------------------
+Les principaux métiers sont décrits :doc:`ici<metiers>`
 
-* Les compétences et composantes essentielles
-
-* Les situations professionnelles
-
-* Les niveaux de développements des compétences
-
-* Les apprentissages critiques
+Les compétences et composantes essentielles
+-------------------------------------------
 
 
+Les situations professionnelles
+-------------------------------
 
-test1
------
 
-blala
+Les niveaux de développements des compétences
+---------------------------------------------
 
-test2
------
 
-blibib
+Les apprentissages critiques
+----------------------------
+
+
+
+
 
 
 
