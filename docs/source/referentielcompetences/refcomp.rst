@@ -28,10 +28,5 @@ test2
 
 blibib
 
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   referentielcompetences/metiers.rst
 
 
