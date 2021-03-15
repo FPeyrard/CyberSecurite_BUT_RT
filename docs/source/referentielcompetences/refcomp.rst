@@ -1,3 +1,4 @@
+.. _refcomp:
 
 Référentiel de compétences
 ==========================
