@@ -34,6 +34,7 @@ release = '1.0'
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
+    'sphinxemoji.sphinxemoji',
 #    'sphinxemoji.sphinxemoji',
 #    'hoverxref.extension',
 ]
