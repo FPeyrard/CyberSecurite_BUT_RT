@@ -24,8 +24,8 @@ blabalalalala
    :maxdepth: 3
    :caption: Référentiel de compétences
 
-   referencielcompetences/refcomp
-   referencielcompetences/metiers
+   referentielcompetences/refcomp.rst
+   referentielcompetences/metiers.rst
 
 
 Ressources
