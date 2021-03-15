@@ -33,3 +33,10 @@ test4
 
 kljsdliqshdfzOIU
 
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   referentielcompetences/metiers.rst
+
