@@ -25,21 +25,6 @@ author = 'Fabrice Peyrard'
 release = '1.0'
 
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "readthedocs.settings.dev")
-
-from django.conf import settings
-from django.utils import timezone
-
-import django
-django.setup()
-
-
-def get_version():
-    """Return package version from setup.cfg."""
-    config = RawConfigParser()
-    config.read(os.path.join('..', 'setup.cfg'))
-    return config.get('metadata', 'version')
-
 
 sys.path.append(os.path.abspath('_ext'))
 extensions = [
