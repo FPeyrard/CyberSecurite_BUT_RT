@@ -24,6 +24,9 @@ author = 'Fabrice Peyrard'
 # The full version, including alpha/beta/rc tags
 release = '1.0'
 
+autodoc_mock_imports = ['_tkinter']
+
+autodoc_mock_imports = ["django"]
 
 # -- General configuration ---------------------------------------------------
 
@@ -82,7 +85,6 @@ hoverxref_role_types = {
     'confval': 'tooltip',  # for custom object
 }
 
-autodoc_mock_imports = ['_tkinter']
 
 
 
