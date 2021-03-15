@@ -1,7 +1,7 @@
 .. _refcomp:
 
 Référentiel de compétences
---------------------------
+==========================
 
 Le référentiel de compétences décrit: 
  * :doc:`metiers` 
