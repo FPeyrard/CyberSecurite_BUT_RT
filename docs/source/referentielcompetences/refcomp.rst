@@ -3,23 +3,19 @@
 Référentiel de compétences
 ==========================
 
-Le référentiel de compétences décrit: 
- * :doc:`metiers` 
- * Les compétences et composantes essentielles
- * Les situations professionnelles
- * Les niveaux de développements des compétences
- * Les apprentissages critiques
+Le référentiel de compétences décrit:
+
+:doc:`metiers`
+--------------
 
 
+Les compétences et composantes essentielles
 
-test1
-----------
+Les situations professionnelles
+
+Les niveaux de développements des compétences
+
+Les apprentissages critiques
 
 
-test2
------
-
-
-test3
------
 
