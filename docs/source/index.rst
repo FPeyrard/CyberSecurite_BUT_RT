@@ -22,6 +22,7 @@ blabalalalala
 
 .. toctree::
    :maxdepth: 3
+   :hidden:
    :caption: Référentiel de compétences
 
    referentielcompetences/refcomp.rst
