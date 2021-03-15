@@ -18,10 +18,10 @@ Les niveaux de développements des compétences
 Les apprentissages critiques
 
 
-
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Référentiel de compétences
 
    referentielcompetences/metiers.rst
+
