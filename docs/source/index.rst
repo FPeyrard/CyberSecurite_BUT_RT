@@ -14,7 +14,7 @@ Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Ré
 
 .. toctree::
    :maxdepth: 3
-   :caption: Parcours CyberSécurité
+   :caption: Référentiel de compétences
 
    referentielcompetences/refcomp.rst
 

@@ -1,4 +1,3 @@
-.. _metiers:
 
 Les métiers accessibles
 =======================
