@@ -13,7 +13,7 @@ Le référentiel de compétences décrit:
 
 * Les niveaux de développements des compétences
 
-* Les apprentissages critiques
+* Les apprentissages critiquesI
 
 
 
