@@ -5,7 +5,7 @@ Référentiel de compétences
 
 Le référentiel de compétences décrit:
 
-:doc:`metiers`
+:doc:`Les métiers accessibles <metiers>`
 --------------
 
 
