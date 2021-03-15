@@ -29,10 +29,6 @@ Ressources
    :maxdepth: 3
    :caption: Ressources
 
-   referentielcompetences/refcomp.rst
-   referentielcompetences/metiers.rst
-
-   
 
 
 Situations d'Apprentissage et d'Evaluation (SAE)
