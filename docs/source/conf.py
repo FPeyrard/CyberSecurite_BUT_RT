@@ -82,6 +82,8 @@ hoverxref_role_types = {
     'confval': 'tooltip',  # for custom object
 }
 
+autodoc_mock_imports = ['_tkinter']
+
 
 
 
