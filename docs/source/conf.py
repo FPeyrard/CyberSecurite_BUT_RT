@@ -14,7 +14,6 @@ import os
 import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import sphinxemoji
 
 # -- Project information -----------------------------------------------------
 
@@ -25,17 +24,13 @@ author = 'Fabrice Peyrard'
 # The full version, including alpha/beta/rc tags
 release = '1.0'
 
-
-
-sys.path.append(os.path.abspath('_ext'))
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
-    'sphinxemoji.sphinxemoji',
+    'sphinx_copybutton',
+    'sphinx-prompt',
+ #   'sphinxemoji.sphinxemoji',
 ]
-
-
-
 
 
 # -- General configuration ---------------------------------------------------
@@ -47,9 +42,7 @@ extensions = [
 #extensions = [
 #    'sphinx.ext.autosectionlabel',
 #    'sphinx.ext.autodoc',
-#    'sphinxemoji.sphinxemoji',
-#    'sphinxemoji.sphinxemoji',
-#    'hoverxref.extension',
+
 #]
 
 # Add any paths that contain templates here, relative to this directory.
