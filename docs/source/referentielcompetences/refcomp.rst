@@ -1,5 +1,8 @@
+.. _refcomp:
+
 Référentiel de compétences
 --------------------------
+
 Le référentiel de compétences décrit: 
  * :doc:`metiers` 
  * Les compétences et composantes essentielles
