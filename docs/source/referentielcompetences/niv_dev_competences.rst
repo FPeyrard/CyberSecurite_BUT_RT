@@ -23,7 +23,7 @@ Les *niveaux de développements des 2 compétences CyberSécurité* sont:
 
   "Intermédiaire", "Intermédiaire"
   "bla", "bla"
-  "Compétent, "Compétent"
+  "Compétent", "Compétent"
   "bli", "bli"
 
 Ainsi, le tableau ci-dessous ::
