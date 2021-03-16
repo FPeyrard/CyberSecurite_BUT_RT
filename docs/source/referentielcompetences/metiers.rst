@@ -13,7 +13,7 @@ Les métiers accessibles
 * **Intégrateur** de solutions de sécurité
 * **Administrateur** Data Center
 
-Ce sont les métiers à BAC+2/+3 identifiés dans le **Panorama des métiers de la CyberSécurité (ANSSI)** 
+Cees métiers à BAC+2/+3 sont identifiés dans le **Panorama des métiers de la CyberSécurité (ANSSI)** 
 
 .. raw:: html
 

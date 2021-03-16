@@ -18,7 +18,7 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'CyberSécurité BUT R&T'
-copyright = '2021, Fabrice Peyrard'
+copyright = '2021, GT BUT R&T, Fabrice Peyrard'
 author = 'Fabrice Peyrard'
 
 # The full version, including alpha/beta/rc tags
