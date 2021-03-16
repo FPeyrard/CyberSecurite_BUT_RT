@@ -13,6 +13,8 @@ Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Ré
   - :doc:`Les métiers accessibles <referentielcompetences/metiers>`
   - :doc:`Les compétences et composantes essentielles <referentielcompetences/compo_essentielles>`
   - :doc:`Les situations professionnelles <referentielcompetences/situa_professionnelles>`
+  - :doc:`Les niveaux de développements des compétences <referentielcompetences/niv_dev_competences>`
+
 
 * **des ressources**
 
@@ -27,6 +29,7 @@ Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Ré
    referentielcompetences/metiers.rst
    referentielcompetences/compo_essentielles.rst
    referentielcompetences/situa_professionnelles.rst
+   referentielcompetences/niv_dev_competences.rst
 
 
 Ressources
