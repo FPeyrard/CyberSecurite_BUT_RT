@@ -8,22 +8,24 @@ Les niveaux de développements des compétences
 Les *niveaux de développements des 2 compétences CyberSécurité* sont:
 
 .. csv-table:: Niveaux de compétences
-:header: "CY1", "CY2"
-:widths: 30, 30
-"Intermédiaire", "Intermédiaire"
-"bla", "bla"
-"Compétent, "Compétent"
-"bli", "bli"
+  :header: "CY1", "CY2"
+  :widths: 30, 30
+
+  "Intermédiaire", "Intermédiaire"
+  "bla", "bla"
+  "Compétent, "Compétent"
+  "bli", "bli"
 
 Ainsi, le tableau ci-dessous ::
 
-+------------------------+------------+----------+
-| Header row, column 1   | Header 2   | Header 3 |
-+========================+============+==========+
-| body row 1, column 1   | column 2   | column 3 |
-+------------------------+------------+----------+
-| body row 2             | Cells may span        |
-+------------------------+-----------------------+
+  +------------------------+------------+----------+
+  | Header row, column 1   | Header 2   | Header 3 |
+  +========================+============+==========+
+  | body row 1, column 1   | column 2   | column 3 |
+  +------------------------+------------+----------+
+  | body row 2             | Cells may span        |
+  +------------------------+-----------------------+
+  
 
 
 
