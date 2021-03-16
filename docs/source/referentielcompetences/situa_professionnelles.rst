@@ -5,7 +5,7 @@ Les situations professionnelles
 .. meta::
    :description lang=fr: Les situations professionnelles de la CyberSécurité à BAC+2 / BAC+3
 
-Les principales situations professionnelles des 2 composantes CyberSécurité sont:
+Les *principales situations professionnelles* des 2 composantes CyberSécurité sont:
 
 * **Sécuriser**  (CY1):
 

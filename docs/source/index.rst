@@ -26,6 +26,7 @@ Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Ré
 
    referentielcompetences/metiers.rst
    referentielcompetences/compo_essentielles.rst
+   referentielcompetences/situa_professionnelles.rst
 
 
 Ressources
