@@ -5,7 +5,7 @@ Les niveaux de développements des compétences
 .. meta::
    :description lang=fr: Les niveaux de développements des compétences de la CyberSécurité à BAC+2 / BAC+3
 
-Les *niveaux de développements des 2 compétences des 2 composantes CyberSécurité* sont:
+Les *niveaux de développements des 2 compétences CyberSécurité* sont:
 
 .. csv-table:: Niveaux de compétences
         :header: "CY1", "CY2"
