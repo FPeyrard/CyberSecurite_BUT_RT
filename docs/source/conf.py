@@ -28,8 +28,8 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
     'sphinx_copybutton',
-#    'sphinx-prompt',
-#   'sphinxemoji.sphinxemoji',
+    'sphinx-prompt',
+    'sphinxemoji.sphinxemoji',
 ]
 
 
