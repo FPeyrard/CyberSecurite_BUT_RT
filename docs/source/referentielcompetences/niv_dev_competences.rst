@@ -26,8 +26,7 @@ Les *niveaux de développements des 2 compétences CyberSécurité* sont:
   "Compétent", "Compétent"
   "bli", "bli"
 
-Ainsi, le tableau ci-dessous ::
-
+Ainsi, le tableau ci-dessous
 
 * **Sécuriser**  (CY1):
 

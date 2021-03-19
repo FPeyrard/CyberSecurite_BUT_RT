@@ -7,8 +7,12 @@ Les compétences et composantes essentielles
 
 A partir des pré-requis des compétences RT1, RT2, RT3, nous décrivons ici les compétences:
 
-* **Sécuriser**  (CY1)
-* **Surveiller** (CY2)
+_
+ +----------------------+----------------------+
+ | **Sécuriser** (CY1)  | **Surveiller** (CY2) |
+ +----------------------+----------------------+
+
+
 
 Compétence CY1 |:arrow_right:| **Administrer un système d'information sécurisé**
 -------------------------
