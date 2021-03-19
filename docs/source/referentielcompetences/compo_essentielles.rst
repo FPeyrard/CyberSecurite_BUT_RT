@@ -7,7 +7,7 @@ Les compétences et composantes essentielles
 
 A partir des pré-requis des compétences RT1, RT2, RT3, nous décrivons ici les compétences:
 
-_
+
  +----------------------+----------------------+
  | **Sécuriser** (CY1)  | **Surveiller** (CY2) |
  +----------------------+----------------------+
