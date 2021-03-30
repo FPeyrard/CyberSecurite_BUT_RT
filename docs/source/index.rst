@@ -23,7 +23,7 @@ La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les 
    - Pilotage des projets de réseaux (PilPro)
    - Réseaux opérateurs et multimédia (ROM)
 
-Le référentiel de compétences est disponible :download:`ici <referentielcompetences/referentiel-competences-RT.pdf>`
+Le référentiel global de compétences est disponible :download:`ici <referentielcompetences/referentiel-competences-RT.pdf>`
 
 .. _CyberSécurité:
 
