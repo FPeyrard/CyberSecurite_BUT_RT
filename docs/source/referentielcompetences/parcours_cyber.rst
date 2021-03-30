@@ -1,5 +1,8 @@
 .. _parcours_cyber:
 
+Le parcours CyberSécurité
+=========================
+
 .. admonition:: Le parcours CyberSécurité du B.U.T. R&T s'articule autour:
 
    * **du référentiel de compétences**
