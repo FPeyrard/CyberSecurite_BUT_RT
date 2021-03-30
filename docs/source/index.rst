@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-CyberSécurité BUT R&T
-=====================
+BUT Réseaux & Télécoms
+======================
 
 Le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`_, à partir de la rentrée de septembre 2021, s'articule sur 3 années de formation.
 
@@ -17,7 +17,7 @@ Le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://b
 Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **Compétent**.
 
 La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les établissements IUT:
-   - :ref:`CyberSécurité (Cyber) <CyberSécurité>`
+   - :ref:`CyberSécurité (Cyber) <referentielcompetences/parcours_cyber>`
    - Développement système et cloud (DevCloud)
    - Internet des objets et mobilité (IOM)
    - Pilotage des projets de réseaux (PilPro)
@@ -25,27 +25,13 @@ La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les 
 
 Le référentiel global de compétences est disponible :download:`ici <referentielcompetences/referentiel-competences-RT.pdf>`
 
-.. _CyberSécurité:
-
-.. admonition:: Le parcours CyberSécurité du B.U.T. R&T s'articule autour:
-
-   * **du référentiel de compétences**
-
-      - :doc:`Les métiers accessibles <referentielcompetences/metiers>`
-      - :doc:`Les compétences et composantes essentielles <referentielcompetences/compo_essentielles>`
-      - :doc:`Les situations professionnelles <referentielcompetences/situa_professionnelles>`
-      - :doc:`Les niveaux de développements des compétences <referentielcompetences/niv_dev_competences>`
-
-   * **des ressources**
-
-   * **des Situations d'Apprentissage et d'Evaluation (SAE)**
-
 
 .. toctree::
    :maxdepth: 3
    :hidden:
-   :caption: Référentiel de compétences
+   :caption: Parcours CyberSécurité
 
+   referentielcompetences/parcours_cyber.rst
    referentielcompetences/metiers.rst
    referentielcompetences/compo_essentielles.rst
    referentielcompetences/situa_professionnelles.rst

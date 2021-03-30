@@ -1,3 +1,4 @@
+.. _compo_essentielles:
 
 Les compétences et composantes essentielles
 ===========================================
