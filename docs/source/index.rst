@@ -8,7 +8,7 @@ CyberSécurité BUT R&T
 
 Le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`_, à partir de la rentrée de septembre 2021, s'articule sur 3 années de formation.
 
-.. hint:: La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences:
+.. tip:: La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences:
 
    - Administrer les réseaux et l'Internet
    - Connecter les entreprises et les usagers
