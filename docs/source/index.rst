@@ -6,17 +6,17 @@
 CyberSécurité BUT R&T
 =====================
 
-Le nouveau diplôme du :link:`B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`, à partir de la rentrée de septembre 2021, s'articule sur 3 années de formation.
+Le nouveau diplôme du :ref:`B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`, à partir de la rentrée de septembre 2021, s'articule sur 3 années de formation.
 
 La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences:
    - Administrer les réseaux et l'Internet
    - Connecter les entreprises et les usagers
    - Créer des outils et applications informatiques pour les R&T
 
-Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **compétent**.
+Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **Compétent**.
 
 La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les établissements IUT:
-   - CyberSécurité (Cyber)
+   - :ref:`CyberSécurité (Cyber)`
    - Développement système et cloud (DevCloud)
    - Internet des objets et mobilité (IOM)
    - Pilotage des projets de réseaux (PilPro)
@@ -24,14 +24,15 @@ La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les 
 
 Le référentiel de compétences est disponible :download:`ici <referentielcompetences/referentiel-competences-RT.pdf>`
 
-Le parcours CyberSécurité du B.U.T. (Bachelor Universitaire Technologique) Réseaux & Télécoms s'articule autour:
+.. _ParcoursCyber:
 
-* **du référentiel de compétences**
+.. admonition:: Le parcours CyberSécurité du B.U.T. R&T s'articule autour:
+   * **du référentiel de compétences**
 
-  - :doc:`Les métiers accessibles <referentielcompetences/metiers>`
-  - :doc:`Les compétences et composantes essentielles <referentielcompetences/compo_essentielles>`
-  - :doc:`Les situations professionnelles <referentielcompetences/situa_professionnelles>`
-  - :doc:`Les niveaux de développements des compétences <referentielcompetences/niv_dev_competences>`
+      - :doc:`Les métiers accessibles <referentielcompetences/metiers>`
+      - :doc:`Les compétences et composantes essentielles <referentielcompetences/compo_essentielles>`
+      - :doc:`Les situations professionnelles <referentielcompetences/situa_professionnelles>`
+      - :doc:`Les niveaux de développements des compétences <referentielcompetences/niv_dev_competences>`
 
 
 * **des ressources**
