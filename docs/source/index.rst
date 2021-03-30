@@ -17,7 +17,6 @@ Le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://b
 Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **Compétent**.
 
 .. image:: images/comp-com.png
-        :height: 200
         :align: center
         :alt: Compétences tronc commum
 
