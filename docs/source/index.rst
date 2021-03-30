@@ -17,7 +17,7 @@ Le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://b
 Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **Compétent**.
 
 La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les établissements IUT:
-   - `CyberSécurité`_ (Cyber)
+   - CyberSécurité (Cyber)
    - Développement système et cloud (DevCloud)
    - Internet des objets et mobilité (IOM)
    - Pilotage des projets de réseaux (PilPro)
