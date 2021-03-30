@@ -8,7 +8,8 @@ CyberSécurité BUT R&T
 
 Le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`_, à partir de la rentrée de septembre 2021, s'articule sur 3 années de formation.
 
-La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences:
+.. hint:: La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences:
+
    - Administrer les réseaux et l'Internet
    - Connecter les entreprises et les usagers
    - Créer des outils et applications informatiques pour les R&T
@@ -16,7 +17,7 @@ La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 comp�
 Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **Compétent**.
 
 La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les établissements IUT:
-   - :ref:`CyberSécurité`_ (Cyber)
+   - `CyberSécurité`_ (Cyber)
    - Développement système et cloud (DevCloud)
    - Internet des objets et mobilité (IOM)
    - Pilotage des projets de réseaux (PilPro)
@@ -35,10 +36,9 @@ Le référentiel de compétences est disponible :download:`ici <referentielcompe
       - :doc:`Les situations professionnelles <referentielcompetences/situa_professionnelles>`
       - :doc:`Les niveaux de développements des compétences <referentielcompetences/niv_dev_competences>`
 
+   * **des ressources**
 
-* **des ressources**
-
-* **des Situations d'Apprentissage et d'Evaluation (SAE)**
+   * **des Situations d'Apprentissage et d'Evaluation (SAE)**
 
 
 .. toctree::
