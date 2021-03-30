@@ -8,9 +8,10 @@ Le parcours CyberSécurité
    * **du référentiel de compétences**
 
       - :doc:`Les métiers accessibles <referentielcompetences/metiers>`
-      - :doc:`Les compétences et composantes essentielles <referentielcompetences/compo_essentielles>`
-      - :doc:`Les situations professionnelles <referentielcompetences/situa_professionnelles>`
-      - :doc:`Les niveaux de développements des compétences <referentielcompetences/niv_dev_competences>`
+      
+- :doc:`Les compétences et composantes essentielles <referentielcompetences/compo_essentielles>`
+- :doc:`Les situations professionnelles <referentielcompetences/situa_professionnelles>`
+- :doc:`Les niveaux de développements des compétences <referentielcompetences/niv_dev_competences>`
 
    * **des ressources**
 
