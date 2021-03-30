@@ -8,13 +8,18 @@ BUT Réseaux & Télécoms
 
 Le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`_, à partir de la rentrée de septembre 2021, s'articule sur 3 années de formation.
 
-.. admonition:: La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences:
+.. admonition:: La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences :
 
    - Administrer les réseaux et l'Internet
    - Connecter les entreprises et les usagers
    - Créer des outils et applications informatiques pour les R&T
 
 Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **Compétent**.
+
+.. image:: images/comp-com.png
+        :height: 200
+        :align: center
+        :alt: Compétences tronc commum
 
 La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les établissements IUT:
    - :doc:`CyberSécurité (Cyber) <parcours_cyber>`

@@ -4,8 +4,7 @@ Le parcours CyberSécurité
 =========================
 
 .. admonition:: Le parcours CyberSécurité du B.U.T. Réseaux & Télécoms s'articule autour:
-
-   * **du référentiel de compétences**
+	* **du référentiel de compétences**
       - :doc:`Les métiers accessibles <parcourscyber/metiers>`
       - :doc:`Les compétences et composantes essentielles <parcourscyber/compo_essentielles>`
       - :doc:`Les situations professionnelles <parcourscyber/situa_professionnelles>`
