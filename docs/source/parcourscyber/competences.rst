@@ -37,16 +37,34 @@ Situations professionnelles
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 	1. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
-	2. **Compétent**: Mettre en \oe{}uvre un système d'information sécurisé pour une petite structure
+	2. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
 
 **Surveiller (CY2)** |:arrow_right:| **Surveiller un système d'information sécurisé**
 --------------------
 
-* en assurant une veille permanente *(attaques et défenses: CVE, CVSS, VERIS, CERT, évolutions technologiques, …)*
-* en réalisant les mises à jour critiques
-* en automatisant des tâches
-* en s’intégrant dans une équipe
-* en surveillant le comportement du réseau *(SIEM, …)*
-* en veillant au respect des contrats et à la conformité des obligations du système d'information *(sûreté de fonctionnement)*
+Définition
+~~~~~~~~~~
+Afin de rester fiable et opérationnel, un système d’information doit être sous surveillance permanente et en perpétuelle évolution et ce, dès sa mise en production. Il doit donc intégrer tous les outils nécessaires à son exploitation, c’est-à-dire permettant d’en assurer sa configuration optimale, de l’administrer, de le surveiller, de le mettre à jour, d’en assurer la continuité de service (notamment le sauvegarder et le restaurer) et d’en gérer les changements.
+De même, en cas d’incident constaté (ce qui doit toujours rester une éventualité envisagée), toutes les procédures à suivre doivent être prévues à l’avance et mises en \oe{}uvre afin de minimiser les impacts et conséquences de l’incident, notamment au travers de plans de reprise ou de continuité d’activité.
+
+Composantes essensielles
+~~~~~~~~~~~~~~~~~~~~~~~~
+	* en assurant une veille permanente des attaques et défenses
+	* en réalisant les mises à jour critiques
+	* en automatisant des tâches
+	* en s’intégrant dans une équipe
+	* en surveillant le comportement du réseau
+	* en veillant au respect des contrats et à la conformité des obligations du système d'information
+
+Situations professionnelles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	* Surveillance et analyse du système d’information
+	* Audit de sécurité
+	* Gestion d'un incident de sécurité
+
+Niveaux de développement
+~~~~~~~~~~~~~~~~~~~~~~~~
+	1. **Intermédiaire**: Prendre en main les outils de surveillance et de test du système d'information
+	2. **Compétent**: Mettre en œuvre le système de surveillance d'incidents de sécurité
 
 
