@@ -76,12 +76,14 @@ html_theme = 'default'
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
+    'collapse_navigation': True,
+    'display_version': True,
     'navigation_depth': 5,
 }
 
 html_logo = "images/qrcode.png"
-html_show_sourcelink = True
+html_show_sourcelink = False
 
 
 
