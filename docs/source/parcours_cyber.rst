@@ -1,5 +1,8 @@
 .. _parcours_cyber:
 
+.. meta::
+   :description lang=fr: BUT R&T, Le parcours CyberSécurité à BAC+3
+
 Le parcours CyberSécurité
 =========================
 
@@ -12,7 +15,9 @@ Le parcours CyberSécurité
 		- :doc:`Les niveaux de développements des compétences <parcourscyber/niv_dev_competences>`
 
 	* **des ressources**
+		- en cours d'élaboration
 
 	* **des Situations d'Apprentissage et d'Evaluation (SAE)**
+		- en cours d'élaboration
 
 

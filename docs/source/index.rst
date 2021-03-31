@@ -3,6 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. _index:
+
+.. meta::
+   :description lang=fr: BUT R&T, Bachelor Universitaire Technologique Réseaux & Télécoms
+
 BUT Réseaux & Télécoms
 ======================
 
@@ -14,11 +19,11 @@ A partir de la rentrée de septembre 2021, le nouveau diplôme du `B.U.T. (Bache
    - **Connecter les entreprises et les usagers**
    - **Créer des outils et applications informatiques pour les R&T**
 
-Ces 3 compétences sont dispensées sur les 3 années de formation avec une acquisition progressive des niveaux **Novice**, **Intermédiaire** et **Compétent**.
+Ces compétences sont dispensées sur les 3 ans de formation avec une acquisition progressive des **Apprentissages Critiques**.
 
 .. image:: images/comp-com.png
         :align: center
-        :height: 300
+        :height: 350
         :alt: Compétences tronc commum
 
 La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les établissements IUT:

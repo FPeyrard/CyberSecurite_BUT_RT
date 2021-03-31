@@ -1,10 +1,10 @@
 .. _compo_essentielles:
 
+.. meta::
+   :description lang=fr: BUT R&T, Les compétences et composantes essentielles de la CyberSécurité à BAC+3
+
 Les compétences et composantes essentielles
 ===========================================
-
-.. meta::
-   :description lang=fr: Les compétences et composantes essentielles de la CyberSécurité à BAC+2 / BAC+3
 
 A partir des pré-requis des compétences RT1, RT2, RT3, nous décrivons ici les compétences:
 
