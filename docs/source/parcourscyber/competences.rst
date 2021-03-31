@@ -6,17 +6,15 @@
 Les compétences
 ===============
 
-A partir de la 2<sup>ème</sup> année du BUT les compétences en CyberSécurité (CY1 et CY2) sont acquisent en même temps que les compétences du tronc commun (RT1, RT2, RT3).
+A partir de la 2ème année du BUT les compétences en CyberSécurité (CY1 et CY2) sont acquisent en même temps que les compétences du tronc commun (RT1, RT2, RT3).
 
-.. image:: images/comp-cyber.png
+.. image:: ../images/comp-cyber.png
         :align: center
         :height: 350
         :alt: Compétences CyberSécurité
 
-
-
-**Sécuriser (CY1) |:arrow_right:| Administrer un système d'information sécurisé**
------------------
+**Sécuriser (CY1)** |:arrow_right:| **Administrer un système d'information sécurisé**
+-------------------
 
 Définition
 ~~~~~~~~~~
@@ -41,8 +39,8 @@ Niveaux de développement
 	1. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
 	2. **Compétent**: Mettre en \oe{}uvre un système d'information sécurisé pour une petite structure
 
-**Surveiller (CY2) |:arrow_right:| Surveiller un système d'information sécurisé**
-------------------
+**Surveiller (CY2)** |:arrow_right:| **Surveiller un système d'information sécurisé**
+--------------------
 
 * en assurant une veille permanente *(attaques et défenses: CVE, CVSS, VERIS, CERT, évolutions technologiques, …)*
 * en réalisant les mises à jour critiques
