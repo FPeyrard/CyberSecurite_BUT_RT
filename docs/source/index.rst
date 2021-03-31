@@ -43,9 +43,8 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
 
    parcours_cyber.rst
    parcourscyber/metiers.rst
-   parcourscyber/compo_essentielles.rst
-   parcourscyber/situa_professionnelles.rst
-   parcourscyber/niv_dev_competences.rst
+   parcourscyber/competences.rst
+
 
 
 Ressources
