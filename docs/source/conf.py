@@ -82,7 +82,7 @@ html_theme_options = {
     'navigation_depth': 5,
 }
 
-html_logo = "images/qrcode.png"
+html_logo = "images/qrcode250.png"
 html_show_sourcelink = False
 
 
