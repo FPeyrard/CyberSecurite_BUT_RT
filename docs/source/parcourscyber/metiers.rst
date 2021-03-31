@@ -10,13 +10,13 @@ Insertion professionnelle
 -------------------------
 
 A l'issue de la formation BUT R&T/CyberSécurité à BAC+3, l'objectif est d'amener les étudiants à une insertion professionnelle vers les principaux métiers suivant:
-* **Technicien** des réseaux d'entreprises / en cybersécurité / réseaux sécurisés / d'infrastructures sécurisées
-* **Coordinateur** cybersécurité des systèmes d'information
-* **Administrateur** de solutions de sécurité
-* **Auditeur** de sécurité technique
-* **Opérateur** analyste SOC (Security Operation Center)
-* **Intégrateur** de solutions de sécurité
-* **Administrateur** Data Center
+	* **Technicien** des réseaux d'entreprises / en cybersécurité / réseaux sécurisés / d'infrastructures sécurisées
+	* **Coordinateur** cybersécurité des systèmes d'information
+	* **Administrateur** de solutions de sécurité
+	* **Auditeur** de sécurité technique
+	* **Opérateur** analyste SOC (Security Operation Center)
+	* **Intégrateur** de solutions de sécurité
+	* **Administrateur** Data Center
 
 Ces métiers sont identifiés dans le **Panorama des métiers de la CyberSécurité (ANSSI)**.
 
