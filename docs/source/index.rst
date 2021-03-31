@@ -37,7 +37,7 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :hidden:
    :caption: Parcours CyberSécurité
 
@@ -51,18 +51,19 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
 .. ----------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :hidden:
    :caption: Ressources
 
+   parcourscyber/ressources/outils.rst
    parcourscyber/ressources/hygiene.rst
    parcourscyber/ressources/pentest.rst
 
-..Situations d'Apprentissage et d'Evaluation (SAE)
-..------------------------------------------------
+.. Situations d'Apprentissage et d'Evaluation (SAE)
+.. ------------------------------------------------
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :hidden:
    :caption: Situations d'Apprentissage et d'Evaluation (SAE)
 
