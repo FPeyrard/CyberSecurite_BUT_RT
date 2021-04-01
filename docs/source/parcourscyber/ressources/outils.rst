@@ -28,9 +28,11 @@ Kali
 Il est possible de la télécharger simplement `ici <https://www.kali.org/>`_
 
 .. raw:: html
-	    <div style="text-align: center; margin-bottom: 2em;">
-   		<iframe width="80%" height="150" src="http://cdimage.kali.org/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-   		</div>
+
+	<div style="text-align: center; margin-bottom: 2em;">
+	<iframe width="80%" height="150" src="http://cdimage.kali.org/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
+
 	
 
 
