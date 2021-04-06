@@ -7,8 +7,8 @@ Ressources
 ==========
 
 .. toctree::
-	:maxdepth: 4
-	:numbered:
+   :maxdepth: 4
+   :caption: Ressources
 
-*
+.. include:: liste_ressources.txt
 
