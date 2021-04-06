@@ -52,7 +52,6 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
 
 .. toctree::
    :maxdepth: 4
-   :hidden:
    :caption: Ressources
 
    parcourscyber/ressources/outils.rst
