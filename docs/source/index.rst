@@ -52,9 +52,12 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
 
 .. toctree::
    :maxdepth: 4
+   :hidden:
    :caption: Ressources
 
-   .. include:: parcourscyber/ressources/liste_ressources.txt
+   parcourscyber/ressources/outils.rst
+   parcourscyber/ressources/hygiene.rst
+   parcourscyber/ressources/pentest.rst
 
 
 .. Situations d'Apprentissage et d'Evaluation (SAE)

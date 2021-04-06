@@ -10,5 +10,7 @@ Ressources
    :maxdepth: 4
    :caption: Ressources
    
-   .. include:: parcourscyber/ressources/liste_ressources.txt
+   parcourscyber/ressources/outils.rst
+   parcourscyber/ressources/hygiene.rst
+   parcourscyber/ressources/pentest.rst
 
