@@ -14,7 +14,7 @@ Le parcours CyberSécurité
 
 
 	* **des ressources**
-		- en cours d'élaboration
+		- :doc:`en cours d'élaboration <parcourscyber/ressources/ressources>`
 
 	* **des Situations d'Apprentissage et d'Evaluation (SAE)**
 		- en cours d'élaboration

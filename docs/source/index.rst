@@ -11,7 +11,7 @@
 BUT Réseaux & Télécoms
 ======================
 
-A partir de la rentrée de septembre 2021, le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`_ s'articule sur 3 années de formation.
+A partir de la rentrée de septembre 2021, le nouveau diplôme du `B.U.T. (Bachelor Universitaire Technologique) <https://but.iut.fr/>`_ s'articule sur 3 années de formation (BUT, BUT2, BUT3).
 
 .. admonition:: La spécialité Réseaux & Télécoms est composée d'un tronc commum de 3 compétences :
 
@@ -19,7 +19,7 @@ A partir de la rentrée de septembre 2021, le nouveau diplôme du `B.U.T. (Bache
    - **Connecter les entreprises et les usagers**
    - **Créer des outils et applications informatiques pour les R&T**
 
-Ces compétences sont dispensées sur les 3 ans de formation avec une acquisition progressive des **Apprentissages Critiques**.
+Ces compétences sont dispensées sur les 3 ans de formation avec une acquisition progressive; :one:Novice, :two:Intermédiaire, :three:Compétent des **Apprentissages Critiques**.
 
 .. image:: images/comp-com.png
         :align: center
