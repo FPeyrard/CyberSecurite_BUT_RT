@@ -19,7 +19,7 @@ A partir de la rentrée de septembre 2021, le nouveau diplôme du `B.U.T. (Bache
    - **Connecter les entreprises et les usagers**
    - **Créer des outils et applications informatiques pour les R&T**
 
-Ces compétences sont dispensées sur les 3 ans de formation avec une acquisition progressive des **Apprentissages Critiques** avec les niveaux |:one:|Novice, |:two:|Intermédiaire, |:three:|Compétent.
+Ces compétences sont dispensées sur les 3 ans de formation avec une acquisition progressive des **Apprentissages Critiques** avec les niveaux |:one:| Novice, |:two:| Intermédiaire, |:three:| Compétent.
 
 .. image:: images/comp-com.png
         :align: center
@@ -54,6 +54,7 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :maxdepth: 4
    :hidden:
    :caption: Ressources
+   
    .. include:: parcourscyber/ressources/liste_ressources.txt
 
 
