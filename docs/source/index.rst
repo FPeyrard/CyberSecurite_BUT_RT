@@ -55,7 +55,7 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :hidden:
    :caption: Ressources
    
-   .. include:: parcourscyber/ressources/liste_ressources.txt
+   .. include:: <parcourscyber/ressources/liste_ressources.txt>
 
 
 .. Situations d'Apprentissage et d'Evaluation (SAE)
