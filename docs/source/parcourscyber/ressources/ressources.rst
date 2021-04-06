@@ -9,8 +9,8 @@ Ressources
 .. toctree::
    :maxdepth: 4
    :caption: Ressources
-   
-   parcourscyber/ressources/outils.rst
-   parcourscyber/ressources/hygiene.rst
-   parcourscyber/ressources/pentest.rst
+
+   outils.rst
+   hygiene.rst
+   pentest.rst
 
