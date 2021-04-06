@@ -3,7 +3,10 @@
 .. meta::
    :description lang=fr: BUT R&T, Les ressources en CyberSécurité à BAC+3
 
-..toctree::
-:maxdepth: 4
-:numbered:
+Ressources
+==========
+
+.. toctree::
+	:maxdepth: 4
+	:numbered:
 
