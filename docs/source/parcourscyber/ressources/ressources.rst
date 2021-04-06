@@ -9,6 +9,5 @@ Ressources
 .. toctree::
    :maxdepth: 4
    :caption: Ressources
-   
    .. include:: liste_ressources.txt
 
