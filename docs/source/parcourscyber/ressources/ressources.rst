@@ -3,14 +3,13 @@
 .. meta::
    :description lang=fr: BUT R&T, Les ressources en CyberSécurité à BAC+3
 
-Ressources
-==========
+Liste de ressources
+===================
 
 .. toctree::
    :maxdepth: 4
    :caption: Ressources
 
-   outils.rst
-   hygiene.rst
-   pentest.rst
+   .. include:: ../../liste_ressources_cyber.txt
+   
 
