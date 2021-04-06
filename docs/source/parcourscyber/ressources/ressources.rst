@@ -10,6 +10,6 @@ Liste de ressources
    :maxdepth: 4
    :caption: Ressources
 
-   .. include:: ../../liste_ressources_cyber.txt
+   .. include:: ../../liste_ressources_cyber.rst
    
 

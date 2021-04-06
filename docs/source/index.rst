@@ -54,11 +54,8 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :maxdepth: 4
    :hidden:
    :caption: Ressources
-   .. include:: liste_ressources_cyber.txt
 
-.. include:: <liste_ressources_cyber.txt>
-
-.. include:: liste_ressources_cyber.txt
+   .. include:: liste_ressources_cyber.rst
 
 
 .. Situations d'Apprentissage et d'Evaluation (SAE)
