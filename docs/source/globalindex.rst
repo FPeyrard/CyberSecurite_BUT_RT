@@ -6,9 +6,8 @@
 Index
 =====
 
-.. index:: CyberSécurité
-	:name: Global_Index
-	
+:ref:`genindex`
+
 
 
 
