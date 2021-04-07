@@ -57,6 +57,7 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
 
    parcourscyber/ressources/outils
    parcourscyber/ressources/hygiene
+   parcourscyber/ressources/cmdlinux
    parcourscyber/ressources/pentest
 
 .. Situations d'Apprentissage et d'Evaluation (SAE)

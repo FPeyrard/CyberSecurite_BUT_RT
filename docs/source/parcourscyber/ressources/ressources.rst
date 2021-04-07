@@ -12,6 +12,7 @@ Liste de ressources
 
    outils
    hygiene
+   cmdlinux
    pentest
 
 
