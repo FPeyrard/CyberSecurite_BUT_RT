@@ -10,9 +10,9 @@ Outils
 
 	- Parmi les outils de travail, on utilisera très largement un système d'exploitation Linux basé sur les distributions `Debian <https://www.debian.org/>`_, `Ubuntu <https://ubuntu.com/>`_, `Centos <https://www.centos.org/>`_, pour mettre en pratique les nombreux outils et techniques de CyberSécurité.
 	
-	- La distribution Linux la plus avancée à ce jour dans ce domaine est `Kali`_ basée sur une distribution Debian.
+	- La distribution Linux la plus avancée à ce jour dans ce domaine est ``Kali``_ basée sur une distribution Debian.
 
-	- L'exécution d'OS (dont Kali par exemple|:wink:|) sur un poste de travail existant s'effectue facilement grâce à un hyperviseur (type 2), on parle alors de `Virtualisation`_.
+	- L'exécution d'OS (dont Kali par exemple |:wink:| ) sur un poste de travail existant s'effectue facilement grâce à un hyperviseur (type 2), on parle alors de `Virtualisation`_.
 
 	- Le *couteau suisse* du domaine des réseaux informatiques est `Wireshark`_. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets, comme par exemple :guilabel:`HTTPS --> TCP --> IP --> MAC`.
 
