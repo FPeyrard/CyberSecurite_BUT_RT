@@ -85,6 +85,8 @@ html_theme_options = {
 html_logo = "images/qrcode250.png"
 html_show_sourcelink = True
 file_insertion_enabled = True
+autosectionlabel_prefix_document = True
+
 
 
 

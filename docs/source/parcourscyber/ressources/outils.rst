@@ -10,11 +10,12 @@ Outils
 
 	- Parmi les outils de travail, on utilisera très largement un système d'exploitation Linux basé sur les distributions `Debian <https://www.debian.org/>`_, `Ubuntu <https://ubuntu.com/>`_, `Centos <https://www.centos.org/>`_, pour mettre en pratique les nombreux outils et techniques de CyberSécurité.
 	
-	- La distribution Linux la plus avancée à ce jour dans ce domaine est ``Kali``_ basée sur une distribution Debian.
+	- La distribution Linux la plus avancée à ce jour dans ce domaine est :ref:`Kali` basée sur une distribution Debian.
 
 	- L'exécution d'OS (dont Kali par exemple |:wink:| ) sur un poste de travail existant s'effectue facilement grâce à un hyperviseur (type 2), on parle alors de `Virtualisation`_.
 
-	- Le *couteau suisse* du domaine des réseaux informatiques est `Wireshark`_. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets, comme par exemple :guilabel:`HTTPS --> TCP --> IP --> MAC`.
+	- Le *couteau suisse* du domaine des réseaux informatiques est `Wireshark`_. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP.
+	Cet outil aide à la compréhension de l'encapsulation de paquets, comme par exemple :guilabel:`HTTPS --> TCP --> IP --> MAC`.
 
 
 .. _Kali:
@@ -22,7 +23,8 @@ Outils
 Kali
 ----
 
-Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org/>`_ oui bien simplement ici. Le répertoire ``current/`` est un lien vers la dernière version disponible.
+Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org/>`_ ou bien simplement ici.
+Le répertoire ``current/`` est un lien vers la dernière version disponible.
 
 .. raw:: html
 
@@ -33,7 +35,7 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 .. tip:: Sous Windows10 on installera au préalable:
 
 	1. GPG pour Windows `Gpg4win <https://gpg4win.org/thanks-for-download.html>`_
-	2. Wget pour windows `wget <https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe/download>`_
+	2. `wget <https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe/download>`_ pour Windows
 	3. puis on modifira la variable d'environnement ``PATH`` pour accéder à la commande ``wget``
 
 	.. code-block:: bash
