@@ -22,9 +22,9 @@ A partir de la rentrée de septembre 2021, le nouveau diplôme du `B.U.T. (Bache
 Ces compétences sont dispensées sur les 3 ans de formation avec une acquisition progressive des **Apprentissages Critiques** avec les niveaux |:one:| Novice, |:two:| Intermédiaire, |:three:| Compétent.
 
 .. image:: images/comp-com.png
-        :align: center
-        :height: 350
-        :alt: Compétences tronc commum
+   :align: center
+   :height: 350
+   :alt: Compétences tronc commum
 
 La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les établissements IUT:
    - :doc:`CyberSécurité (Cyber) <parcours_cyber>`
@@ -54,11 +54,10 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :maxdepth: 4
    :hidden:
    :caption: Ressources
-   
-   .. include:: <liste_ressources_cyber.rst>
-      :literal:
 
-
+   parcourscyber/ressources/outils.rst
+   parcourscyber/ressources/hygiene.rst
+   parcourscyber/ressources/pentest.rst
 
 .. Situations d'Apprentissage et d'Evaluation (SAE)
 .. ------------------------------------------------
