@@ -21,7 +21,7 @@ Outils
 Kali
 ----
 
-Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org/>`_ oui bien simplement ici. Le répertoire `current/` est un lien vers la dernière version disponible.
+Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org/>`_ oui bien simplement ici. Le répertoire ``current/`` est un lien vers la dernière version disponible.
 
 .. raw:: html
 
@@ -29,9 +29,9 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 	<iframe width="100%" height="350" src="https://cdimage.kali.org/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
 
-.. warning:: Garantir l'authenticité et l'intégrité du téléchargement d'un fichier sur Internet consite à
+.. warning:: Garantir **l'authenticité** et **l'intégrité** du téléchargement d'un fichier sur Internet consite à:
 
-	1. Télécharger et installer localement la clé publique ``archive-key.asc`` du serveur distant:
+	1. Télécharger et importer localement la clé publique ``archive-key.asc`` du serveur distant:
 
 	.. code-block:: bash
 
