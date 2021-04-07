@@ -35,6 +35,7 @@ La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les 
 
 Le référentiel global de compétences est disponible :download:`ici <referentiel-competences-RT.pdf>`
 
+:ref:`genindex`
 
 .. toctree::
    :maxdepth: 4
