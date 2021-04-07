@@ -46,7 +46,8 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 
 	.. code-block:: bash
 
-		wget -q -O - https://archive.kali.org/archive-key.asc | gpg --import
+		wget --no-check-certificate https://archive.kali.org/archive-key.asc
+		gpg --import archive-key.asc
 
 	2. Télécharger la signature ``SHA256SUMS.gpg`` qui a permi de signer chaque fichiers ``.iso`` et d'en générer son empreinte (ou hash) avec le protocole `SHA256 <https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer>`_. Les empreintes des fichiers ``.iso`` sont accessibles avec la commande ``cat SHA256SUMS``.
 
