@@ -35,7 +35,7 @@ La spécialité Réseaux & Télécoms propose 5 parcours dispensés suivant les 
 
 Le référentiel global de compétences est disponible :download:`ici <referentiel-competences-RT.pdf>`
 
-:ref:`genindex`
+
 
 .. toctree::
    :maxdepth: 4
@@ -68,5 +68,12 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :maxdepth: 4
    :hidden:
    :caption: Situations d'Apprentissage et d'Evaluation (SAE)
+
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Index
+
+   :ref:`genindex`
 
 

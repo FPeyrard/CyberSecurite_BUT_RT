@@ -6,7 +6,7 @@
 Commandes Linux
 ===============
 
-Cette section à pour vocation de ressencer la plus part des commandes Linux pour un usage de configuration, diagnostics du système et réseaux, MAIS toujours à utiliser dans un contexte Ethique de la CyberSécurité.
+Cette section à pour vocation de ressencer la plus part des commandes Linux pour un usage de configuration, diagnostics du système et réseaux, MAIS toujours utilisées dans un contexte Ethique de la CyberSécurité, c'est-à-dire sans intention de nuire.
 
 .. _Système:
 
