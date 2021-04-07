@@ -10,11 +10,12 @@ Outils
 
 	Parmi les outils de travail, on utilisera très largement un système d'exploitation Linux basé sur les distributions `Debian <https://www.debian.org/>`_, `Ubuntu <https://ubuntu.com/>`_, `Centos <https://www.centos.org/>`_, pour mettre en pratique les nombreux outils et techniques de CyberSécurité.
 	
-	La distribution Linux la plus avancée à ce jour dans ce domaine est ``Kali`` basée sur une distribution Debian.
-		* `Kali`_
+	La distribution Linux la plus avancée à ce jour dans ce domaine est `Kali`_ basée sur une distribution Debian.
 
-	Le *couteau suisse* du domaine des réseaux informatiques est ``Wireshark``. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets, comme par exemple :guilabel:`HTTPS --> TCP --> IP --> MAC`.
-		* `Wireshark`_
+	L'exécution d'OS (dont Kali par exemple|:wink:|) sur un poste de travail existant s'effectue facilement grâce à un hyperviseur (type 2), on parle alors de `Virtualisation`_.
+
+	Le *couteau suisse* du domaine des réseaux informatiques est `Wireshark`_. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets, comme par exemple :guilabel:`HTTPS --> TCP --> IP --> MAC`.
+
 
 .. _Kali:
 
@@ -49,11 +50,12 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 		wget http://archive.kali.org/archive-key.asc
 		gpg --import archive-key.asc
 
-	2. Télécharger la signature ``SHA256SUMS.gpg`` qui a permi de signer chaque fichiers ``.iso`` et d'en générer son empreinte (ou hash) avec le protocole `SHA256 <https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer>`_. Les empreintes des fichiers ``.iso`` sont accessibles avec la commande ``cat SHA256SUMS``.
+	2. Télécharger la signature ``SHA256SUMS.gpg`` qui a permi de signer chaque fichiers ``.iso`` et d'en générer son empreinte (ou hash) avec le protocole `SHA256 <https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer>`_. Les empreintes des fichiers ``.iso`` sont accessibles avec la commande ``more SHA256SUMS``.
 
 	.. code-block:: bash
 
-		wget -q http://cdimage.kali.org/current/SHA256SUMS{.gpg,}
+		wget -q http://cdimage.kali.org/current/SHA256SUMS.gpg
+		wget -q http://cdimage.kali.org/current/SHA256SUMS
 
 	3. Télécharger l'image ``.iso`` souhaitée, ici ``kali-linux-202x.y-installer-netinst-amd64.iso`` pour une version ``légère ~400Mo``, d'installation à distance ``netinst`` pour processeur 64bits ``amd64``. La progression du téléchargement s'affiche sans l'option ``-q --quiet`` de ``wget``.
 
@@ -74,5 +76,16 @@ Wireshark
 ---------
 
 Vous pouvez télécharger `Wireshark sur le site officiel <https://www.wireshark.org/download.html>`_. Il est multi-plateformes (Windows, Linux, MacOS).
+
+.. _Virtualisation:
+
+Virtualisation
+--------------
+
+Les principaux logiciels de virtualisation multi-plateformes (Windows, Linux, MacOS) gratuits sont:
+	1. `VirtualBox <https://www.virtualbox.org/wiki/Downloads>`_
+	2. `VMWare Workstation Player <https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html>`_
+
+
 
 
