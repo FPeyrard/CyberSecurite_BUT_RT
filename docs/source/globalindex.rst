@@ -6,5 +6,6 @@
 Index
 =====
 
-:ref:`genindex`
+.. index:: BNF, grammar, syntax, notation
+
 
