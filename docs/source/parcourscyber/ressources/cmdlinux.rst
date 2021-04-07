@@ -13,9 +13,9 @@ Cette section à pour vocation de ressencer la plus part des commandes Linux pou
 Système
 -------
 
-who
+:index:`who`
 ^^^
-:index:``who - show who is logged on``
+``who - show who is logged on``
 
 .. code-block:: bash
 
