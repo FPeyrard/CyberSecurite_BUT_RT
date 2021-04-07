@@ -31,19 +31,19 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 
 .. warning:: Garantir l'authenticité et l'intégrité du téléchargement d'un fichier sur Internet consite à
 
-	1. Télécharger et installer localement la clé publique `archive-key.asc` du serveur distant:
+	1. Télécharger et installer localement la clé publique ``archive-key.asc`` du serveur distant:
 
 	.. code-block:: bash
 
 		wget -q -O - https://archive.kali.org/archive-key.asc | gpg --import
 
-	2. Télécharger la signature `SHA256SUMS.gpg` qui a permi de signer chaque fichiers `.iso` et d'en générer son empreinte (ou hash) avec le protocole `SHA256 <https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer>`. Les empreintes des fichiers `.iso` sont accessibles avec la commande `cat SHA256SUMS`.
+	2. Télécharger la signature ``SHA256SUMS.gpg`` qui a permi de signer chaque fichiers ``.iso`` et d'en générer son empreinte (ou hash) avec le protocole `SHA256 <https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer>`_. Les empreintes des fichiers ``.iso`` sont accessibles avec la commande ``cat SHA256SUMS``.
 
 	.. code-block:: bash
 
 		wget -q https://cdimage.kali.org/current/SHA256SUMS{.gpg,}
 
-	3. Télécharger l'image `.iso` souhaitée, ici `kali-linux-202x.y-installer-netinst-amd64.iso` pour une version `légère ~400Mo`, d'installation à distance `netinst` pour processeur 64bits `amd64`. La progression du téléchargement s'affiche sans l'option `-q --quiet` de `wget`.
+	3. Télécharger l'image ``.iso`` souhaitée, ici ``kali-linux-202x.y-installer-netinst-amd64.iso`` pour une version ``légère ~400Mo``, d'installation à distance ``netinst`` pour processeur 64bits ``amd64``. La progression du téléchargement s'affiche sans l'option ``-q --quiet`` de ``wget``.
 
 	.. code-block:: bash
 
