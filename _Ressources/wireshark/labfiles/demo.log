@@ -1,0 +1,58 @@
+Demo 1:
+===========
+tshark -r http.pcap 
+tshark -r http.pcap -V
+tshark -r http.pcap -T pdml
+tshark -r http.pcap | wc
+tshark -r http.pcap -V | wc
+tshark -r http.pcap -T pdml | wc
+ls -l http.pcap
+
+Demo 2:
+===========
+tshark -r port-1234.pcap 
+tshark -r port-1234.pcap -x
+tshark -r port-1234.pcap -d tcp.port==1234,http -Y http
+
+Demo 3:
+===========
+tshark -r ssl.pcap
+tshark -r ssl.pcap -o ssl.keys_list:192.168.3.3,443,http,key.pem
+tshark -r ssl.pcap -o ssl.keys_list:192.168.3.3,443,http,key.pem -Y http.response -V -O http | more
+
+Demo 4:
+===========
+tshark -r http.pcap -o tcp.desegment_tcp_streams:TRUE -Y http
+tshark -r http.pcap -o tcp.desegment_tcp_streams:FALSE -Y http
+tshark -r http.pcap -o tcp.desegment_tcp_streams:TRUE -Y http -w true.pcap
+tshark -r http.pcap -o tcp.desegment_tcp_streams:FALSE -Y http -w false.pcap
+tshark -r true.pcap
+tshark -r false.pcap
+
+Demo 5:
+===========
+tshark -r mail.pcap -qzio,phs
+tshark -r mail.pcap -qzconv,ip
+tshark -r mail.pcap -qzconv,tcp
+tshark -r mail.pcap -qz io,stat,60,ip,tcp,smtp,pop
+
+Demo 6:
+===========
+editcap -i 60 mail.pcap tmp.pcap
+ls -l tmp*.pcap
+capinfos -Tcae tmp*
+rm tmp*
+editcap -c 1000 mail.pcap tmp.pcap
+ls -l tmp*.pcap
+capinfos -Tcae tmp*
+mergecap -w mail-new.pcap tmp*
+cmp mail-new.pcap mail.pcap 
+
+Demo 7:
+===========
+tshark -r mail.pcap -c1 -V -O frame
+editcap -t -27.681538 mail.pcap mail-new.pcap
+tshark -r mail-new.pcap -ta | more
+tshark -r mail-new.pcap -ta | tail -1
+capinfos -Teacu mail*
+

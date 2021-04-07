@@ -13,7 +13,7 @@ Outils
 	La distribution Linux la plus avancée à ce jour dans ce domaine est ``Kali`` basée sur une distribution Debian.
 		* `Kali`_
 
-	Le *couteau suisse* du domaine des réseaux informatiques est ``Wireshark``. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets; par exemple HTTPS --> TCP --> IP --> MAC
+	Le *couteau suisse* du domaine des réseaux informatiques est ``Wireshark``. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets, comme par exemple :guilabel:`HTTPS --> TCP --> IP --> MAC`.
 		* `Wireshark`_
 
 .. _Kali:
@@ -21,7 +21,15 @@ Outils
 Kali
 ----
 
-Vous pouvez télégarger `Kali Linux sur le site officiel <https://www.kali.org/>`_ oui bien simplement ici.
+Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org/>`_ oui bien simplement ici.
+
+.. warning:: Garantir l'authenticité et l'intégrité du téléchargement d'un fichier sur Internet consite à
+
+	1. Télégerager la clé publique du serveur distant:
+	.. code-block:: bash
+		wget -q -O - https://archive.kali.org/archive-key.asc | gpg --import
+		
+
 
 .. raw:: html
 
@@ -34,6 +42,6 @@ Vous pouvez télégarger `Kali Linux sur le site officiel <https://www.kali.org/
 Wireshark
 ---------
 
-Vous pouvez télégarger `Wireshark sur le site officiel <https://www.wireshark.org/download.html>`_
+Vous pouvez télécharger `Wireshark sur le site officiel <https://www.wireshark.org/download.html>`_. Il est multi-plateformes (Windows, Linux, MacOS).
 
 

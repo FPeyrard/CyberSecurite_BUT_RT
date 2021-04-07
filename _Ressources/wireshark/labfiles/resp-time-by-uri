@@ -1,0 +1,6 @@
+tshark  -r example.pcap -Y http.request -T fields -E separator=' ' -e frame.number -e http.request.uri | sed -e 's/\?.*$//' > req
+tshark -r example.pcap -Y http.response -T fields -E separator=' ' -e http.request_in -e http.response.code -e http.time > resp
+q 'SELECT REQ.c2, count(*), min(RESP.c3), avg(RESP.c3), max (RESP.c3) FROM req AS REQ JOIN resp AS RESP ON REQ.c1=RESP.c1 GROUP BY REQ.c2'
+
+
+tshark -q -r example.pcap -X lua_script:http.lua | q "SELECT c1, count(*), min(c2), avg(c2), max(c2) FROM - GROUP by c1"
