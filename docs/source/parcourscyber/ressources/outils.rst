@@ -46,20 +46,20 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 
 	.. code-block:: bash
 
-		wget --no-check-certificate https://archive.kali.org/archive-key.asc
+		wget http://archive.kali.org/archive-key.asc
 		gpg --import archive-key.asc
 
 	2. Télécharger la signature ``SHA256SUMS.gpg`` qui a permi de signer chaque fichiers ``.iso`` et d'en générer son empreinte (ou hash) avec le protocole `SHA256 <https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer>`_. Les empreintes des fichiers ``.iso`` sont accessibles avec la commande ``cat SHA256SUMS``.
 
 	.. code-block:: bash
 
-		wget -q https://cdimage.kali.org/current/SHA256SUMS{.gpg,}
+		wget -q http://cdimage.kali.org/current/SHA256SUMS{.gpg,}
 
 	3. Télécharger l'image ``.iso`` souhaitée, ici ``kali-linux-202x.y-installer-netinst-amd64.iso`` pour une version ``légère ~400Mo``, d'installation à distance ``netinst`` pour processeur 64bits ``amd64``. La progression du téléchargement s'affiche sans l'option ``-q --quiet`` de ``wget``.
 
 	.. code-block:: bash
 
-		wget https://cdimage.kali.org/current/kali-linux-2021.1-installer-netinst-amd64.iso
+		wget http://cdimage.kali.org/current/kali-linux-2021.1-installer-netinst-amd64.iso
 
 	4. Vérifier l'empreinte du fichier téléchargé avec celle stockée dans le fichier ``SHA256SUMS`` à l'aide de la signature ``SHA256SUMS.gpg``.
 
