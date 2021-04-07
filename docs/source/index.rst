@@ -42,9 +42,9 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :hidden:
    :caption: Parcours CyberSécurité
 
-   parcours_cyber.rst
-   parcourscyber/metiers.rst
-   parcourscyber/competences.rst
+   parcours_cyber
+   parcourscyber/metiers
+   parcourscyber/competences
 
 
 
@@ -74,6 +74,6 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :hidden:
    :caption: Index
 
-   :ref:`genindex`
+   globalindex
 
 
