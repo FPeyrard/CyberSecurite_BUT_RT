@@ -70,10 +70,9 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :caption: Situations d'Apprentissage et d'Evaluation (SAE)
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
    :hidden:
-   :caption: Index
 
-   genindex
+   globalindex
 
 
