@@ -29,6 +29,17 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 	<iframe width="100%" height="350" src="https://cdimage.kali.org/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
 
+.. tip:: Sous Windows10 on installera au préalable:
+
+	1. GPG pour Windows `Gpg4win <https://gpg4win.org/thanks-for-download.html>`_
+	2. Wget pour windows `wget <https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe/download>`_
+	3. puis on modifira la variable d'environnement ``PATH`` pour accéder à la commande ``wget``
+
+	.. code-block:: bash
+
+		setx PATH=%PATH%;"C:\Program Files (x86)\GnuWin32\bin"
+	4. On ouvrira un nouveau terminal ``cmd`` pour exécuter lesc ommandes suivantes.
+
 .. warning:: Garantir **l'authenticité** et **l'intégrité** du téléchargement d'un fichier sur Internet consite à:
 
 	1. Télécharger et importer localement la clé publique ``archive-key.asc`` du serveur distant:
@@ -55,10 +66,6 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 
 		gpg --verify SHA256SUMS.gpg SHA256SUMS
 
-.. tip:: Sous Windows on installera au préalable:
-
-	1. GPG pour Windows `Gpg4win <https://gpg4win.org/thanks-for-download.html>`_
-	2. Wget pour windows `wget <https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe/download>`_
 
 .. _Wireshark:
 
