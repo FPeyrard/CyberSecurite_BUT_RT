@@ -49,6 +49,16 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 
 		wget https://cdimage.kali.org/current/kali-linux-2021.1-installer-netinst-amd64.iso
 
+	4. Vérifier l'empreinte du fichier téléchargé avec celle stockée dans le fichier ``SHA256SUMS`` à l'aide de la signature ``SHA256SUMS.gpg``.
+
+	.. code-block:: bash
+
+		gpg --verify SHA256SUMS.gpg SHA256SUMS
+
+.. tip:: Sous Windows on installera au préalable:
+
+	1. GPG pour Windows `Gpg4win <https://gpg4win.org/thanks-for-download.html>`_
+	2. Wget pour windows `wget <https://sourceforge.net/projects/gnuwin32/files/wget/1.11.4-1/wget-1.11.4-1-setup.exe/download>`_
 
 .. _Wireshark:
 
