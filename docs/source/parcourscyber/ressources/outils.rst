@@ -25,10 +25,12 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 
 .. warning:: Garantir l'authenticité et l'intégrité du téléchargement d'un fichier sur Internet consite à
 
-	1. Télégerager la clé publique du serveur distant:
+	1. Télécharger la clé publique du serveur distant:
+
 	.. code-block:: bash
+
 		wget -q -O - https://archive.kali.org/archive-key.asc | gpg --import
-		
+
 
 
 .. raw:: html
