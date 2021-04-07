@@ -74,6 +74,6 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
    :hidden:
    :caption: Index
 
-   :ref:`genindex`
+   genindex
 
 
