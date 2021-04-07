@@ -10,9 +10,9 @@ Liste de ressources
    :maxdepth: 4
    :caption: Ressources
 
-   outils.rst
-   hygiene.rst
-   pentest.rst
+   outils
+   hygiene
+   pentest
 
 
 
