@@ -15,7 +15,7 @@ Système
 
 who
 ^^^
-``who - show who is logged on`` :index:`who`
+:index:``who - show who is logged on``
 
 .. code-block:: bash
 
