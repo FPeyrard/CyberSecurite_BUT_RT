@@ -7,25 +7,21 @@ Outils
 ======
 
 .. admonition:: Outils de travail
-	
+
 	Parmi les outils de travail, on utilisera très largement un système d'exploitation Linux basé sur les distributions `Debian <https://www.debian.org/>`_, `Ubuntu <https://ubuntu.com/>`_, `Centos <https://www.centos.org/>`_, pour mettre en pratique les nombreux outils et techniques de CyberSécurité.
 	
 	La distribution Linux la plus avancée à ce jour dans ce domaine est ``Kali`` basée sur une distribution Debian.
 		* `Kali`_
 
-	Autre outils
-		* **item 2**
-			- en cours d'élaboration
-	Autre outils
-		* **item 3**
-			- en cours d'élaboration
+	Le *couteau suisse* du domaine des réseaux informatiques est ``Wireshark``. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets; par exemple HTTPS --> TCP --> IP --> MAC
+		* `Wireshark`_
 
 .. _Kali:
 
 Kali
 ----
 
-Il est possible de la télécharger simplement `ici <https://www.kali.org/>`_
+Vous pouvez télégarger `Kali Linux sur le site officiel <https://www.kali.org/>`_ oui bien simplement ici.
 
 .. raw:: html
 
@@ -33,6 +29,11 @@ Il est possible de la télécharger simplement `ici <https://www.kali.org/>`_
 	<iframe width="100%" height="350" src="https://cdimage.kali.org/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
 
-	
+.. _Wireshark:
+
+Wireshark
+---------
+
+Vous pouvez télégarger `Wireshark sur le site officiel <https://www.wireshark.org/download.html>`_
 
 
