@@ -37,8 +37,8 @@ Vous pouvez télécharger `Kali Linux sur le site officiel <https://www.kali.org
 
 	.. code-block:: bash
 
-		setx PATH=%PATH%;"C:\Program Files (x86)\GnuWin32\bin"
-	4. On ouvrira un nouveau terminal ``cmd`` pour exécuter lesc ommandes suivantes.
+		set PATH=%PATH%;"C:\Program Files (x86)\GnuWin32\bin"
+	4. On ouvrira un nouveau terminal ``cmd`` pour exécuter les commandes suivantes.
 
 .. warning:: Garantir **l'authenticité** et **l'intégrité** du téléchargement d'un fichier sur Internet consite à:
 
