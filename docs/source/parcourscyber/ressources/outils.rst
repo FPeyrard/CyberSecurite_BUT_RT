@@ -10,7 +10,7 @@ Outils
 
 	- Parmi les outils de travail, on utilisera très largement un système d'exploitation Linux basé sur les distributions `Debian <https://www.debian.org/>`_, `Ubuntu <https://ubuntu.com/>`_, `Centos <https://www.centos.org/>`_, pour mettre en pratique les nombreux outils et techniques de CyberSécurité.
 	
-	- La distribution Linux la plus avancée à ce jour dans ce domaine est :ref:`Kali` basée sur une distribution Debian.
+	- La distribution Linux la plus avancée à ce jour dans ce domaine est :ref:`Kali <Kali>` basée sur une distribution Debian.
 
 	- L'exécution d'OS (dont Kali par exemple |:wink:| ) sur un poste de travail existant s'effectue facilement grâce à un hyperviseur (type 2), on parle alors de `Virtualisation`_.
 
