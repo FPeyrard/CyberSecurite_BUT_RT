@@ -16,6 +16,8 @@ Outils
 
 	- Le *couteau suisse* du domaine des réseaux informatiques est `Wireshark`_. C'est un outils inspensable pour la l'analyse de contenus de trames et paquets du niveau d'accès au médium (MAC) jusqu'aux couches applicatives, en passant par les protocoles IP, TCP, UDP. Cet outil aide à la compréhension de l'encapsulation de paquets, comme par exemple :guilabel:`HTTPS --> TCP --> IP --> MAC`.
 
+	- `Scapy`_ est un programme Python qui permet à l'utilisateur d'envoyer, de sniffer, de disséquer et de falsifier des paquets sur le réseau.
+
 
 .. _Kali:
 
@@ -70,14 +72,6 @@ Le répertoire ``current/`` est un lien vers la dernière version disponible.
 
 		gpg --verify SHA256SUMS.gpg SHA256SUMS
 
-
-.. _Wireshark:
-
-Wireshark
----------
-
-Vous pouvez télécharger `Wireshark sur le site officiel <https://www.wireshark.org/download.html>`_. Il est multi-plateformes (Windows, Linux, MacOS).
-
 .. _Virtualisation:
 
 Virtualisation
@@ -87,6 +81,18 @@ Les principaux logiciels de virtualisation multi-plateformes (Windows, Linux, Ma
 	1. `VirtualBox <https://www.virtualbox.org/wiki/Downloads>`_
 	2. `VMWare Workstation Player <https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html>`_
 
+.. _Wireshark:
 
+Wireshark
+---------
+
+Vous pouvez télécharger `Wireshark sur le site officiel <https://www.wireshark.org/download.html>`_. Il est multi-plateformes (Windows, Linux, MacOS).
+
+.. _Scapy:
+
+Scapy
+-----
+
+Pour commercer `La documentation officielle de Scapy <https://scapy.readthedocs.io/>`_ permet de comprendre son fonctionnement. Des **ateliers** spécifiques vont être développés sur ce site. 
 
 
