@@ -27,6 +27,7 @@ release = '1.0'
 extensions = [
     'sphinx.ext.autosectionlabel',
     'sphinx.ext.autodoc',
+    'sphinx.ext.viewcode',
  #   'sphinx_copybutton',
  #   'sphinx-prompt',
     'sphinxemoji.sphinxemoji',
@@ -74,6 +75,7 @@ exclude_patterns = [ ]
 # so a file named "default.css" will overwrite the builtin "default.css".
 # html_static_path = ['_static']
 
+pygments_style = 'sphinx'
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
     'logo_only': False,
