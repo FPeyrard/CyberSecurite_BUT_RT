@@ -43,7 +43,8 @@ BUT2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'info
   :header: "Code", "Apprentissage Critique"
   :widths: 10, 70
 
-	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité, |br| :doc:`Hygiène <ressources/hygiene>`"
+	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité,
+			:doc:`Hygiène <ressources/hygiene>`"
 	"AC1122","Mettre en oeuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau"
 	"AC1123","Sécuriser les systèmes d’exploitation"
 	"AC1124","Choisir les outils cryptographiques adaptés au besoin fonctionnel du système d’information"
