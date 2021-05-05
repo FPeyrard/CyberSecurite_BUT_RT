@@ -37,6 +37,7 @@ Situations professionnelles
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 	1. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
+	:doc:`metiers <metiers>`
 	2. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
 
 Apprentissages Critiques
@@ -44,7 +45,7 @@ Apprentissages Critiques
 	+--------+--------------------------------------------------------------------------------------------+
 	|  Code  | Intitulé Apprentissage Critique                                                            |
 	+========+============================================================================================+
-	| AC1121 | Utiliser les bonnes pratiques et les recommandations de cybersécurité :doc:`metiers <metiers>`         |
+	| AC1121 | Utiliser les bonnes pratiques et les recommandations de cybersécurité          |
 	+--------+--------------------------------------------------------------------------------------------+
 	| AC1122 | Mettre en oeuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau    |
 	+--------+--------------------------------------------------------------------------------------------+
