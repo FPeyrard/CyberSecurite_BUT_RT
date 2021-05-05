@@ -44,7 +44,7 @@ Apprentissages Critiques
 	+--------+--------------------------------------------------------------------------------------------+
 	|  Code  | Intitulé Apprentissage Critique                                                            |
 	+========+============================================================================================+
-	| AC1121 | Utiliser les bonnes pratiques et les recommandations de cybersécurité :doc:`Hygiène <ressources/hygiene>`           |
+	| AC1121 | Utiliser les bonnes pratiques et les recommandations de cybersécurité :ref:`hygiene`           |
 	+--------+--------------------------------------------------------------------------------------------+
 	| AC1122 | Mettre en oeuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau    |
 	+--------+--------------------------------------------------------------------------------------------+
