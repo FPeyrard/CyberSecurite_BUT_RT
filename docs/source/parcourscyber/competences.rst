@@ -37,7 +37,7 @@ Situations professionnelles
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 	1. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
-	:doc:`metiers <metiers>`
+	:doc:`Hygiène <ressources/hygiene>`
 	2. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
 
 Apprentissages Critiques
