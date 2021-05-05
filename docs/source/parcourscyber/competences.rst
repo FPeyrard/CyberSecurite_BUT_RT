@@ -37,8 +37,8 @@ Situations professionnelles
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 	2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
-	
-	.. csv-table:: Apprentissages Critiques CY1-N2
+
+.. csv-table:: Apprentissages Critiques CY1-N2
   :header: "Code", "Apprentissage Critique"
   :widths: 30, 70
 
