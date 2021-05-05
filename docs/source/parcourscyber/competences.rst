@@ -37,6 +37,7 @@ Situations professionnelles
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 	2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
+	
 	.. csv-table:: Apprentissages Critiques CY1-N2
   :header: "Code", "Apprentissage Critique"
   :widths: 30, 70
@@ -47,7 +48,7 @@ Niveaux de développement
 	"AC1124","Choisir les outils cryptographiques adaptés au besoin fonctionnel du système d’information"
 	"AC1125","Connaître les différents types d’attaque"
 	"AC1126","Comprendre des documents techniques en anglais"
-	
+
 	3. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
 
 Apprentissages Critiques
