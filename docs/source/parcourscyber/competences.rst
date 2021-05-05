@@ -36,38 +36,24 @@ Situations professionnelles
 
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
-	1. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
-	:doc:`Hygiène <ressources/hygiene>`
-	2. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
-
-Apprentissages Critiques
-~~~~~~~~~~~~~~~~~~~~~~~~
-	+--------+--------------------------------------------------------------------------------------------+
-	|  Code  | Intitulé Apprentissage Critique                                                            |
-	+========+============================================================================================+
-	| AC1121 | Utiliser les bonnes pratiques et les recommandations de cybersécurité                      |
-	+--------+--------------------------------------------------------------------------------------------+
-	| AC1122 | Mettre en oeuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau    |
-	+--------+--------------------------------------------------------------------------------------------+
-	| AC1123 | Sécuriser les systèmes d’exploitation                                                      |
-	+--------+--------------------------------------------------------------------------------------------+
-	| AC1124 | Choisir les outils cryptographiques adaptés au besoin fonctionnel du système d’information |
-	+--------+--------------------------------------------------------------------------------------------+
-	| AC1125 | Connaître les différents types d’attaque                                                   |
-	+--------+--------------------------------------------------------------------------------------------+
-	| AC1126 | Comprendre des documents techniques en anglais                                             |
-	+--------+--------------------------------------------------------------------------------------------+
-
-.. csv-table:: Niveaux de compétences
-  :header: "Code", "Intitulé Apprentissage Critique"
+	2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
+	.. csv-table:: Apprentissages Critiques CY1-N2
+  :header: "Code", "Apprentissage Critique"
   :widths: 30, 70
 
-	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité, :doc:`Hygiène <ressources/hygiene>`"
+	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité,\\ :doc:`Hygiène <ressources/hygiene>`"
 	"AC1122","Mettre en oeuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau"
 	"AC1123","Sécuriser les systèmes d’exploitation"
 	"AC1124","Choisir les outils cryptographiques adaptés au besoin fonctionnel du système d’information"
 	"AC1125","Connaître les différents types d’attaque"
 	"AC1126","Comprendre des documents techniques en anglais"
+	
+	3. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
+
+Apprentissages Critiques
+~~~~~~~~~~~~~~~~~~~~~~~~
+	
+
 
 
 **Surveiller (CY2)** |:arrow_right:| **Surveiller un système d'information sécurisé**
