@@ -75,4 +75,7 @@ Le référentiel global de compétences est disponible :download:`ici <referenti
 
    globalindex
 
+.. |br| raw:: html
+
+<br />
 
