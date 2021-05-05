@@ -31,25 +31,27 @@ Composantes essensielles
 
 Situations professionnelles
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	* Analyse de l’existant et étude des besoins de sécurité d’une petite structure
-	* Évolution et mise en conformité du système d'information d’une entreprise
+* Analyse de l’existant et étude des besoins de sécurité d’une petite structure
+* Évolution et mise en conformité du système d'information d’une entreprise
 
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
-	2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
+
+2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
 
 .. csv-table:: Apprentissages Critiques CY1-N2
   :header: "Code", "Apprentissage Critique"
-  :widths: 30, 70
+  :widths: 10, 70
 
-	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité,\\ :doc:`Hygiène <ressources/hygiene>`"
+	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité,\r :doc:`Hygiène <ressources/hygiene>`"
 	"AC1122","Mettre en oeuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau"
 	"AC1123","Sécuriser les systèmes d’exploitation"
 	"AC1124","Choisir les outils cryptographiques adaptés au besoin fonctionnel du système d’information"
 	"AC1125","Connaître les différents types d’attaque"
 	"AC1126","Comprendre des documents techniques en anglais"
 
-	3. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
+
+3. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
 
 Apprentissages Critiques
 ~~~~~~~~~~~~~~~~~~~~~~~~
