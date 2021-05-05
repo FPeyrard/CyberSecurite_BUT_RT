@@ -63,7 +63,7 @@ Apprentissages Critiques
   :widths: 30, 70
 
 	"Code","Intitulé Apprentissage Critique"
-	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité
+	"AC1121","Utiliser les bonnes pratiques et les recommandations de cybersécurité"
 	"AC1122","Mettre en oeuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau"
 	"AC1123","Sécuriser les systèmes d’exploitation"
 	"AC1124","Choisir les outils cryptographiques adaptés au besoin fonctionnel du système d’information"
