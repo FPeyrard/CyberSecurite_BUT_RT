@@ -37,9 +37,9 @@ Situations professionnelles
 Niveaux de développement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-BUT2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
+* Niveau **Intermédiaire** BUT2: Sensibiliser aux vulnérabilités d'un système d'information et aux remédiations possibles
 
-.. csv-table:: Apprentissages Critiques CY1-N2
+.. csv-table:: Apprentissages Critiques Cyber#1 - Sensibiliser aux vulnérabilités d'un SI
   :header: "Code", "Apprentissage Critique"
   :widths: 10, 70
 
@@ -52,7 +52,18 @@ BUT2. **Intermédiaire**: Sensibiliser aux vulnérabilités d'un système d'info
 	"AC1126","Comprendre des documents techniques en anglais"
 
 
-BUT3. **Compétent**: Mettre en œuvre un système d'information sécurisé pour une petite structure
+* Niveau **Compétent** BUT3: Mettre en œuvre un système d'information sécurisé pour une petite structure
+
+.. csv-table:: Apprentissages Critiques Cyber#1 - Mettre en oeuvre un SI sécurisé pour une petite sructure
+  :header: "Code", "Apprentissage Critique"
+  :widths: 10, 70
+
+	"AC1131","Participer activement à une analyse de risque pour définir une politique de sécurité pour une petite structure"
+	"AC1132","Mettre en oeuvre des outils avancés de sécurisation d’une infrastructure du réseau"
+	"AC1133","Sécuriser les services"
+	"AC1134","Proposer une architecture sécurisée de système d’information pour une petite structure"
+
+
 
 Apprentissages Critiques
 ~~~~~~~~~~~~~~~~~~~~~~~~
