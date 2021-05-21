@@ -8,12 +8,9 @@ Hygiène numérique
 
 .. admonition:: Ressources en Hygiène Numérique
 
-	* **item 1**
+	* L'ANSSI met à disposition un ensemble de ressources dont:
+		* Les bonnes pratiques
 
-	* **item 2**
-		- en cours d'élaboration
 
-	* **item 3**
-		- en cours d'élaboration
 
 
