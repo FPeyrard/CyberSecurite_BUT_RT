@@ -19,6 +19,10 @@ L'ANSSI met à disposition un ensemble de ressources dont:
 
 * Les bonnes pratiques
 
+.. raw:: html
 
+	<div style="text-align: center; margin-bottom: 2em;">
+	<iframe width="100%" height="350" src="https://www.cybermalveillance.gouv.fr/bonnes-pratiques" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
 
 
